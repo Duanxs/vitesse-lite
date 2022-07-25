@@ -79,7 +79,7 @@
 
 ### 克隆到本地
 
-欲清除 git 历史记录，请执行此操作
+欲清除 git 历史记录，执行此操作
 
 ```bash
 npx degit antfu/vitesse-lite my-vitesse-app
